@@ -1,6 +1,4 @@
 # DeepSource Sample Code - Dummy Run
-import os
-import sys  # unused import
 
 def calculate_discount(price, discount):
     result = price - (price * discount / 100)
