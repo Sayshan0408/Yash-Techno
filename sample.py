@@ -14,3 +14,4 @@ passwords = ["admin123", "secret"]  # hardcoded credentials
 
 def process_user(user):
     print(user["name"])  # KeyError risk
+# end of file
