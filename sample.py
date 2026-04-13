@@ -27,4 +27,6 @@ def new_function():
     x = 10
     print(x)
 
+# trigger deepsource
+
 
