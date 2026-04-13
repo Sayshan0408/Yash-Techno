@@ -25,3 +25,5 @@ def new_function():
 def new_function():
     x = 10
     print(x)
+
+
