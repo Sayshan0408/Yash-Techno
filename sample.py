@@ -20,3 +20,8 @@ def new_function():
     x = 10
     y = 20
     print(x + y)
+    
+# new test line
+def new_function():
+    x = 10
+    print(x)
